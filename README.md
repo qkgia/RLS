@@ -9,16 +9,16 @@ This is the repository for Recurrent Level Sets (RLS). An arxiv tech report desc
 
 If you find RLS useful for your research, please consider citing
 
-@article{le2017reform,
-Author = {Le, Ngan and Quach, Kha-Gia and Luu, Khoa and Savvides, Marios and Zhu, Chenchen},
-Title = {Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation},
-Journal = {arXiv preprint arXiv:1704.03593},
-Year = {2017},
-Publisher = {arXiv}
-}
+		@article{le2017reform,
+		Author = {Le, Ngan and Quach, Kha-Gia and Luu, Khoa and Savvides, Marios and Zhu, Chenchen},
+		Title = {Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation},
+		Journal = {arXiv preprint arXiv:1704.03593},
+		Year = {2017},
+		Publisher = {arXiv}
+		}	
 
-<img src='data/result_imgs/pascal_voc.png' width='300'>
-<img src='data/result_imgs/coco.png' width='300'>
+<img src='data/result_imgs/pascal_voc.png' width='100%'>
+<img src='data/result_imgs/coco.png' width='100%'>
 
 ### Resources
 
